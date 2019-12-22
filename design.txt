@@ -1,0 +1,24 @@
+Project requires several circuit parts like Rectifier, Batteries, Inverter, Transmitter coils, 
+Receiver coils, Charger circuits, mobile phone batteries. The constraints that we have figured 
+are :
+	Increasing the power transferred by transmitter.
+	Increasing the distance between transmitter and receiver.
+	Transferring power from transmitter to multiple receiver coils.
+
+AC TO AC CONVERTER
+First part of the circuit. The transformer transforms the input voltage of 220V AC to 12V AC. 
+This is converted to DC by the bridge rectifier connected. The voltage is regulated to 12V by 
+7812 regulators.
+
+BATTERY CHARGER
+3 Rechargeable batteries of 3.7V are connected in series to get 12V. This bunch is charged 
+from the rectifier supply. This discharges to the transmitter part of the circuit.
+
+IPT TRANSMITTER
+This constitutes 2N2222A transistor, coils, resistor. The transistor helps in oscillations 
+and low power amplification. The receiver coil is placed near the transmitter coil [above 
+or at a lesser distance between them].
+
+IPT RECEIVER
+Receiver coil has a 100uF capacitor, 1N4007 diode and coils. This receives power from the 
+transmitter. The cell phone battery is connected to the receiver, thus getting it charged. 
