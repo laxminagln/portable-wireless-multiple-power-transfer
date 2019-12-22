@@ -1,0 +1,27 @@
+To implement the project, the required power output obtained from the receiver side must be found. 
+Since mobile phones are being charged, 6W of power is required from the receiver side. The proposed 
+design is to charge 3 mobile phones as an example. Therefore, 18W is required. After that a transm-
+-itter which also will give a power of 18W from the supply of 220V inverter supply or simply from 
+12V, 1.5A DC source has to be designed. According to the design of transmitter an inverter or just 
+a battery circuit with a transistor suitable for making oscillations must be built. For powering the 
+battery circuit, an AC to DC converter is constructed, called rectifier which changes from 220V AC 
+to 12V DC.
+1.	Design and setup AC to DC converter
+The Supply voltage is 220V AC.  A stepdown Transformer is used. The transformer transforms the input 
+voltage of 220V AC to 12V AC. A bridge Rectifier circuit is used to convert AC to DC. The voltage is 
+then regulated to 12V by 7812 regulators.
+
+2.	Design and setup Battery Charger
+Three rechargeable batteries of 3.7V each are chosen so that on connecting them in series approximately 
+12V is obtained. This bunch is charged from the rectifier supply. This is then discharged to the Trans-
+-mitter part of the circuit.
+
+3.	Setup of Transmitter Coil.
+A transmitter coil must constitute Transistor coils and Resistor. The Transistor chosen is 2N222A Trans-
+-istor. It is chosen because it helps in oscillations and low power amplifications. The receiver coil is 
+placed in the vicinity of the Transmitter coil.
+
+4.	Setup of Receiver Coil.
+To receive power from the transmitter, receiver coil must have a capacitor, diode and coils. Capacitors 
+suitable for the operation is 100 uF. 1N4007 Diode and coils are used. The cellphone battery is connected 
+to this receiver coil, which charges the mobile battery.
