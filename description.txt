@@ -1,0 +1,35 @@
+In the current scenario, technology is advancing astonishingly. People can hardly live in a world deprived of technology.
+With more and more intrusions in socially relevant matters through Social Media, humans exist in a world where their sill-
+-iest remarks are made public. From the time when computers helped us for this, now we use more handy cellphones for the 
+same. 
+Mobile phones have become an indispensable part of their day-to-day activities. As the battery capacity of existing cell-
+-phones are very less charging has become a challenge. This pave the way for power banks. Power banks can charge only one 
+or two devices and that too directly. So there is an acute need for wireless chargers which can charge multiple devices 
+simultaneously.
+This ‘’Portable Wireless Multiple Power Transfer Device” helps in charging multiple devices simultaneously with the ease 
+of wireless transmission. This project is a cost-effective implementation of the above.
+This is an era of mobile phones, laptops, smart wearables and other portable gadgets which should be charged to get them 
+to work. The number of gadgets a person uses is keeping on increasing day by day. The facilities offered to us for char-
+-ging does not change that frequently. A portable charging module thus became a necessity. Hence it paved the way for 
+power banks. As comforts increase, our greed also increases. Thus it’s high time to outdate power banks which can charge 
+devices only directly. There lies the necessity of a wireless charging module which can charge multiple devices simultan-
+-eously.
+This design project is on a wireless portable charger which on charging can be carried on our daily journey and can be 
+used to charge multiple devices at the same time.
+Usual wireless chargers are also portable but this is pre-charged and can be carried with the easiness of a power bank. 
+It need not be supplied with AC source at the time of charging, and it can supply to more devices at the same time. 
+Our motivation in selecting this project is
+	Lack of charging ports at common residential areas like hostels.
+	Difficulty in charging phones and other electronic gadgets while travelling.
+	Using chargers at public places may cause damage due to faults.
+	Avoiding the chances of shock.
+Our objective is to design and develop a portable wireless charger which can charge multiple devices simultaneously. 
+The expected outcome is a wireless charger which can charge 3 devices simultaneously. In a long-range level we suggest the 
+idea of installing this device in common places for larger number of devices so that anyone in any place can feed their ph-
+-ones.
+The outline of the project is that usual wireless chargers only charge on device at a time. So, it becomes difficult if you
+have to charge more than one device in urgent. Today, the chargers we use have different ports like 2.0, c, etc. So, if we 
+have a conventional charger and we forgot it somewhere, then we may face problems in getting a suitable charger. As our pro-
+-posed charger is wireless, we only have to carry receivers if we establish transmitters in common places and we can travel
+carrying the transmitters if we need them, with the easiness of a power bank. 
+
