@@ -1,0 +1,18 @@
+This project presents a wireless portable charger which on charging can be carried on  daily journey and 
+can be used to charge multiple devices at the same time. Usual wireless chargers are also portable but as
+the word ‘portable’ means that it is pre-charged and can be carried with the easiness of a power bank. 
+The objective of the project is to charge at least three devices. From the usual wireless charger, it is 
+different that it need not be supplied with AC source at the time of charging, and it can supply to more 
+devices at the same time.
+A wireless charging base must be constructed with a battery embedded in it using the principle of inductive 
+power transfer. Wireless charging module should be built such that it can store charge from the AC supply 
+provided. Multiple charging circuits could be powered with the help of principle of Electromagnetic Induction.
+
+AC TO DC CONVERTER-->BATTERY CHARGER CIRCUIT-->INVERTER-->IPT TRANSMITTER
+This is transmitter part of the circuit.
+
+IPT RECEIVER-->CHARGING CIRCUITS-->DEVICES
+This is the receiver part of the circuit.
+
+It is possible to make a portable wireless charger by making several modifications to its circuit and we 
+can charge more than one device at a time according to the power requirement of connected device.
